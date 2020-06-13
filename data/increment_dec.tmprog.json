@@ -1,0 +1,26 @@
+{"head-start-position":"7", 
+"tape": "00000000000000000000000*0000", 
+"rules": [
+{"state": "0", "read": "0", "write": "0", "move": "R", "next-state": "0"},
+{"state": "0", "read": "1", "write": "1", "move": "R", "next-state": "0"},
+{"state": "0", "read": "2", "write": "2", "move": "R", "next-state": "0"},
+{"state": "0", "read": "3", "write": "3", "move": "R", "next-state": "0"},
+{"state": "0", "read": "4", "write": "4", "move": "R", "next-state": "0"},
+{"state": "0", "read": "5", "write": "5", "move": "R", "next-state": "0"},
+{"state": "0", "read": "6", "write": "6", "move": "R", "next-state": "0"},
+{"state": "0", "read": "7", "write": "7", "move": "R", "next-state": "0"},
+{"state": "0", "read": "8", "write": "8", "move": "R", "next-state": "0"},
+{"state": "0", "read": "9", "write": "9", "move": "R", "next-state": "0"},
+{"state": "0", "read": "*", "write": "*", "move": "L", "next-state": "1"},
+{"state": "1", "read": "0", "write": "1", "move": "R", "next-state": "0"},
+{"state": "1", "read": "1", "write": "2", "move": "R", "next-state": "0"},
+{"state": "1", "read": "2", "write": "3", "move": "R", "next-state": "0"},
+{"state": "1", "read": "3", "write": "4", "move": "R", "next-state": "0"},
+{"state": "1", "read": "4", "write": "5", "move": "R", "next-state": "0"},
+{"state": "1", "read": "5", "write": "6", "move": "R", "next-state": "0"},
+{"state": "1", "read": "6", "write": "7", "move": "R", "next-state": "0"},
+{"state": "1", "read": "7", "write": "8", "move": "R", "next-state": "0"},
+{"state": "1", "read": "8", "write": "9", "move": "R", "next-state": "0"},
+{"state": "1", "read": "9", "write": "0", "move": "L", "next-state": "1"}
+]}
+
